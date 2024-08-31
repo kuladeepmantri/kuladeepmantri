@@ -1,32 +1,37 @@
 <img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your custom banner image -->
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=B8416B&background=00000000&center=true&vCenter=true&width=800&lines=Cybersecurity+Expert;AI+%26+Machine+Learning+Enthusiast;Master's+in+Cybersecurity;Certified+Ethical+Hacker;Lifelong+Learner" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=B8416B&center=true&vCenter=true&width=800&lines=Cybersecurity+Specialist;AI+%26+Machine+Learning+Explorer;Certified+Ethical+Hacker;Always+Learning,+Always+Building" alt="Cool Typing Animation">
 </div>
 
 ---
 
-## 🌟 Core Competencies
+## 🌟 Skills & Expertise
 
 <div align="center">
 
 ### **Cybersecurity & Cloud:**
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![Nessus](https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![Nessus](https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
 
 ### **Programming & Automation:**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### **AI & Machine Learning:**
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) [![LangChain](https://img.shields.io/badge/LangChain-37a779?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
 
 </div>
 
 ---
 
 ## 🎓 Education & Certifications
+
+<div align="center">
+    <img src="https://i.imgur.com/4RABGmK.png" alt="Illinois Institute of Technology Logo" height="60"> <!-- IIT Logo -->
+    <img src="https://i.imgur.com/rA5Zf4l.png" alt="Certified Ethical Hacker Logo" height="60"> <!-- CEH Logo -->
+</div>
 
 **Master’s in Cybersecurity**  
 _Illinois Institute of Technology, Chicago_
