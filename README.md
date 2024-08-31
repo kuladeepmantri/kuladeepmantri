@@ -1,5 +1,4 @@
 <img src="https://github.com/kuladeepmantri/kuladeepmantri/blob/main/kmantri.gif?raw=true" width="1000">
----
 
 ## Skills & Expertise
 
