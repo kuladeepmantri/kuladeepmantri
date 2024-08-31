@@ -12,7 +12,7 @@
 
 ### **Cybersecurity:**
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/) [![Nessus](https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus) [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/) [![Nessus](https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus) [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/Splunk-64A526?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
 
 ### **Cloud & Virtualization:**
 
@@ -28,14 +28,14 @@
 
 ## 🎓 Education & Certifications
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-    <div>
-        <img src="https://img.shields.io/badge/-Illinois_Institute_of_Technology-CC0033?style=flat-square&logo=illinoisinstituteoftechnology&logoColor=white"><br>
-        **Master’s in Cybersecurity**
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/-Illinois_Institute_of_Technology-CC0033?style=for-the-badge&logo=illinoisinstituteoftechnology&logoColor=white" alt="IIT Logo"><br>
+        <span>Master’s in Cybersecurity</span>
     </div>
-    <div>
-        <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker-EC--Council-red?style=flat-square&logo=certifiedethicalhacker&logoColor=white"><br>
-        **Certified Ethical Hacker (CEH)**
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker-EC--Council-red?style=for-the-badge&logo=certifiedethicalhacker&logoColor=white" alt="CEH Logo"><br>
+        <span>Certified Ethical Hacker (CEH)</span>
     </div>
 </div>
 
