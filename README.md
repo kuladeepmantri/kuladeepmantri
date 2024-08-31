@@ -1,43 +1,53 @@
-Here’s a revised README with a unique touch, inspired by the example you provided but tailored to be distinct and modern:
+Let's create something unique that incorporates your ideas but stands apart from the example:
 
 ---
 
-<img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your custom banner image -->
+# Kuladeep Bhushan Mantri
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=289BF9&center=true&vCenter=true&width=1000&lines=Cybersecurity+Professional;AI+%26+Machine+Learning+Enthusiast;Certified+Ethical+Hacker" alt="Typing SVG">
-</div>
-
-<p align="center">
-    <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-    <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-</p>
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri) <!-- Replace with your banner image -->
 
 ---
 
-## 🛠️ Skillset
+## Who Am I?
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,azure,aws,github,git,vs&perline=8)](https://skillicons.dev)
+Hello! I’m **Kuladeep Bhushan Mantri**, a cybersecurity expert with a passion for AI and machine learning. My journey in tech started with securing systems and has evolved into exploring how AI can enhance security. I hold a Master’s degree in Cybersecurity from Illinois Institute of Technology and am a Certified Ethical Hacker (CEH).
+
+---
+
+## 🔧 Core Skills
+
+- **Cybersecurity**:  
+  - Vulnerability Management: Expert with Metasploit, Nessus, Nmap  
+  - Cloud Security: Securing environments in Azure and AWS  
+  - Compliance: Knowledge of NIST 800-53, PCI-DSS, ISO 27001
+
+- **AI & Machine Learning**:  
+  - Proficient in PyTorch for deep learning  
+  - Exploring AI applications to boost security
+
+- **Programming**:  
+  - Languages: Python, Bash, JavaScript  
+  - Tools: Jupyter Notebook, Streamlit
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **Master’s in Cybersecurity**  
-  _Illinois Institute of Technology, Chicago_
+**Master’s in Cybersecurity**  
+_Illinois Institute of Technology, Chicago_
 
-- **Certified Ethical Hacker (CEH)**  
-  _EC-Council_
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-    <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-    <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</div>
+**Certified Ethical Hacker (CEH)**  
+_EC-Council_
 
 ---
 
-This version adds a unique typing animation and uses modern, sleek icons for your LinkedIn and email contact options. It maintains a professional, distinct style without directly copying from the inspiration, ensuring your profile stands out on its own.
+## 🤝 Let’s Connect
+
+I’m always interested in discussing cybersecurity and AI. Feel free to reach out if you’d like to connect or collaborate.
+
+- **Email**: [kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)
+- **LinkedIn**: [linkedin.com/in/kuladeepmantri](https://linkedin.com/in/kuladeepmantri)
+
+---
+
+This README features a different structure, layout, and approach. The sections are clearly defined, but the alignment and presentation are distinct. It’s simple yet modern, highlighting your expertise without copying the layout or style of the example you provided. The use of icons and banners is minimal and original, tailored to your profile's unique identity.
