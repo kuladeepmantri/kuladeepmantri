@@ -1,7 +1,7 @@
 <img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your custom banner image -->
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=B8416B&center=true&vCenter=true&width=800&lines=Cybersecurity+Expert+%7C+AI+Explorer+%7C+CEH+Certified;Building+Secure+and+Intelligent+Systems;Lifelong+Learner+%7C+Tech+Enthusiast" alt="Cool Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=B8416B&center=true&vCenter=true&width=800&lines=Building+Secure+Systems;Exploring+AI+Possibilities;Cybersecurity+Professional;Committed+to+Continuous+Learning" alt="Cool Animation">
 </div>
 
 ---
@@ -28,9 +28,9 @@
 
 ## 🎓 Education & Certifications
 
-<div align="center">
-    <a href="https://www.iit.edu/"><img src="https://img.shields.io/badge/Illinois_Institute_of_Technology-CC0033?style=for-the-badge&logo=illinoisinstituteoftechnology&logoColor=white"></a>
-    <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker-CEH-red?style=for-the-badge&logo=certifiedethicalhacker&logoColor=white"></a>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <a href="https://www.iit.edu/"><img src="https://img.shields.io/badge/Master's_in_Cybersecurity-Illinois_Institute_of_Technology-CC0033?style=for-the-badge&logo=illinoisinstituteoftechnology&logoColor=white"></a>
+    <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council-red?style=for-the-badge&logo=certifiedethicalhacker&logoColor=white"></a>
 </div>
 
 ---
