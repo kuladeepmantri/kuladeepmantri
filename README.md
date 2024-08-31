@@ -10,13 +10,13 @@
 
 <div align="center">
 
-### **Cybersecurity & Cloud:**
+### **Cybersecurity:**
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![Nessus](https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/) [![Nessus](https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus) [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
 
-### **Programming & Automation:**
+### **Cloud & Virtualization:**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 ### **AI & Machine Learning:**
 
@@ -26,9 +26,17 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://www.iit.edu/"><img src="https://img.shields.io/badge/Master's_in_Cybersecurity-Illinois_Institute_of_Technology-CC0033?style=for-the-badge&logo=illinoisinstituteoftechnology&logoColor=white"></a>
-    <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council-red?style=for-the-badge&logo=certifiedethicalhacker&logoColor=white"></a>
+## 🎓 Education & Certifications
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+    <div>
+        <img src="https://img.shields.io/badge/-Illinois_Institute_of_Technology-CC0033?style=flat-square&logo=illinoisinstituteoftechnology&logoColor=white"><br>
+        **Master’s in Cybersecurity**
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker-EC--Council-red?style=flat-square&logo=certifiedethicalhacker&logoColor=white"><br>
+        **Certified Ethical Hacker (CEH)**
+    </div>
 </div>
 
 ---
