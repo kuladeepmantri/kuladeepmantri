@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Skills & Expertise
+## Skills & Expertise
 
 <div align="center">
 
@@ -26,17 +26,16 @@
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- **Master’s in Cybersecurity**  
-  _Illinois Institute of Technology, Chicago_
-
-- **Certified Ethical Hacker (CEH)**  
-  _EC-Council_
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+    <span><strong>Master’s in Cybersecurity</strong> <br> Illinois Institute of Technology, Chicago</span>
+    <span><strong>Certified Ethical Hacker</strong> <br> EC-Council</span>
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
