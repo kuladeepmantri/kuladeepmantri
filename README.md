@@ -1,4 +1,4 @@
-[# Kuladeep Bhushan Mantri
+# Kuladeep Bhushan Mantri
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri) <!-- Replace with your banner image -->
 
@@ -6,66 +6,66 @@
 
 ---
 
-## 🌟 About Me
+## 🌐 About Me
 
-Hi! I’m **Kuladeep**, a passionate cybersecurity professional with a growing interest in AI and machine learning. With hands-on experience in ethical hacking and cloud security, I’m now exploring how AI can make systems smarter and more secure. My journey in tech is fueled by curiosity and a drive to build innovative solutions.
+I’m **Kuladeep Bhushan Mantri**, a cybersecurity professional with a Master’s degree in Cybersecurity from Illinois Institute of Technology. With a strong foundation in ethical hacking and cloud security, I’m now diving into the world of AI and machine learning to build smarter and more secure systems.
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-blue?style=flat-square&logo=security) ![AI](https://img.shields.io/badge/AI%20Enthusiast-Exploring-green?style=flat-square&logo=ai) ![PyTorch](https://img.shields.io/badge/PyTorch-Exploring-orange?style=flat-square&logo=pytorch)
 
 ---
 
-## 🛠️ My Skills & Tools
+## 🎓 Education & Certifications
+
+- **Master’s in Cybersecurity**  
+  _Illinois Institute of Technology, Chicago_
+
+- **Certified Ethical Hacker (CEH)**  
+  _EC-Council_
+
+![Education](https://img.shields.io/badge/Education-Master's%20in%20Cybersecurity-blue?style=flat-square&logo=graduation-cap) ![CEH](https://img.shields.io/badge/Certification-CEH-red?style=flat-square&logo=certification)
+
+---
+
+## 🛠️ Skills & Tools
 
 ### Cybersecurity
-- ![CEH](https://img.shields.io/badge/-Certified%20Ethical%20Hacker-red) ![Cloud Security](https://img.shields.io/badge/-Cloud%20Security-blue)
-- **Vulnerability Management:** Metasploit, Nessus, Nmap
-- **Cloud Platforms:** Azure, AWS
-- **Compliance & Auditing:** NIST 800-53, PCI-DSS, ISO 27001
+- **Vulnerability Management**: Metasploit, Nessus, Nmap
+- **Cloud Security**: Azure, AWS
+- **Compliance**: NIST 800-53, PCI-DSS, ISO 27001
 
 ### AI & Machine Learning
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-orange) ![ML](https://img.shields.io/badge/-Machine%20Learning-yellowgreen)
-- **Frameworks:** PyTorch, TensorFlow
-- **Projects:** From basic ML concepts to advanced applications like GANs and Transformers
-- **Tools:** Jupyter Notebook, Streamlit
+- **Frameworks**: PyTorch, TensorFlow
+- **Projects**: Exploring AI through hands-on projects, from basics to advanced applications
 
 ### Programming
-- ![Python](https://img.shields.io/badge/-Python-blue) ![Bash](https://img.shields.io/badge/-Bash-4EAA25)
-- **Languages:** Python, Bash, JavaScript
-- **Automation & Scripting:** Developing efficient scripts to automate tasks and solve complex problems.
+- **Languages**: Python, Bash, JavaScript
+- **Tools**: Jupyter Notebook, Streamlit
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/Bash-Advanced-lightgrey?style=flat-square&logo=gnubash) ![Azure](https://img.shields.io/badge/Azure-Security-blue?style=flat-square&logo=microsoftazure)
 
 ---
 
-## 🖥️ Featured Projects
+## 🌟 Featured Work
 
-### [PyTorch-ProjectBased](https://github.com/yourusername/PyTorch-ProjectBased)
-_Comprehensive PyTorch learning path with 40+ projects, covering everything from basic tensor operations to GANs and federated learning._
+- **[PyTorch Projects](https://github.com/yourusername/PyTorch-ProjectBased)**  
+  A hands-on exploration of PyTorch, from basic operations to advanced AI applications.
 
-![PyTorch Project](https://via.placeholder.com/600x200.png?text=PyTorch+Projects) <!-- Replace with a project screenshot -->
+- **[CyberChakra](https://github.com/yourusername/CyberChakra)**  
+  A powerful tool for network security, incorporating machine learning for enhanced scanning.
 
----
-
-### [CyberChakra](https://github.com/yourusername/CyberChakra)
-_A powerful port scanning tool enhanced by machine learning to predict and secure network vulnerabilities._
-
-![CyberChakra](https://via.placeholder.com/600x200.png?text=CyberChakra) <!-- Replace with a project screenshot -->
+![Projects](https://img.shields.io/badge/Projects-Highlight-green?style=flat-square&logo=github)
 
 ---
 
-### [OSINT-SaaS](https://github.com/yourusername/OSINT-SaaS)
-_A SaaS application designed to harness the power of open-source intelligence, providing deep insights from public data._
+## 📬 Connect with Me
 
-![OSINT SaaS](https://via.placeholder.com/600x200.png?text=OSINT+SaaS) <!-- Replace with a project screenshot -->
-
----
-
-## 🔗 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?logo=gmail)](mailto:kuladeepbmantri@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/kuladeepmantri)
+[![Email](https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kuladeepbmantri@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kuladeepmantri)
 
 ---
 
-## 🎯 Final Thoughts
+### 💡 Final Thought
 
-My goal is to bridge the gap between cybersecurity and AI, creating solutions that are not only secure but also intelligent. I’m always open to collaboration and learning from the community, so feel free to reach out!
+I’m on a mission to combine the strengths of cybersecurity and AI, creating solutions that are not only secure but intelligent. Let’s connect and explore what we can achieve together!
 
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Let’s+Build+the+Future+Together) <!-- Replace with your footer image -->
-
+![Footer](https://via.placeholder.com/1200x100.png?text=Always+Learning+|+Always+Building) <!-- Replace with your footer image -->
