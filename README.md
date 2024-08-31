@@ -1,7 +1,7 @@
 <img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your custom banner image -->
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=B8416B&center=true&vCenter=true&width=800&lines=Cybersecurity+Specialist;AI+%26+Machine+Learning+Explorer;Certified+Ethical+Hacker;Always+Learning,+Always+Building" alt="Cool Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=B8416B&center=true&vCenter=true&width=800&lines=Cybersecurity+Expert+%7C+AI+Explorer+%7C+CEH+Certified;Building+Secure+and+Intelligent+Systems;Lifelong+Learner+%7C+Tech+Enthusiast" alt="Cool Animation">
 </div>
 
 ---
@@ -29,15 +29,9 @@
 ## 🎓 Education & Certifications
 
 <div align="center">
-    <img src="https://i.imgur.com/4RABGmK.png" alt="Illinois Institute of Technology Logo" height="60"> <!-- IIT Logo -->
-    <img src="https://i.imgur.com/rA5Zf4l.png" alt="Certified Ethical Hacker Logo" height="60"> <!-- CEH Logo -->
+    <a href="https://www.iit.edu/"><img src="https://img.shields.io/badge/Illinois_Institute_of_Technology-CC0033?style=for-the-badge&logo=illinoisinstituteoftechnology&logoColor=white"></a>
+    <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker-CEH-red?style=for-the-badge&logo=certifiedethicalhacker&logoColor=white"></a>
 </div>
-
-**Master’s in Cybersecurity**  
-_Illinois Institute of Technology, Chicago_
-
-**Certified Ethical Hacker (CEH)**  
-_EC-Council_
 
 ---
 
