@@ -32,7 +32,7 @@
     <img src="https://scontent.fdet1-2.fna.fbcdn.net/v/t39.30808-6/348245623_188154387532788_6988967345841123728_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dant5uCB3cAQ7kNvgEtQG6_&_nc_ht=scontent.fdet1-2.fna&oh=00_AYA7zWDe-Z4KdZZ7S0lkpaEY5iXmcEzw2d2qrydf787Ohg&oe=66D98073" alt="IIT Logo" width="30">
     <span>Master’s in Cybersecurity</span>
     <span>&mdash;</span>
-    <img src="https://easycyber.net/wp-content/uploads/2016/05/image.png?w=500" alt="CEH Logo" width="30">
+    <img src="[https://easycyber.net/wp-content/uploads/2016/05/image.png?w=500](https://phishbusteracademy.com/wp-content/uploads/2023/04/EC-Council-CEH-e1680888105656.png)" alt="CEH Logo" width="30">
     <span>CEH EC-COUNCIL</span>
 </div>
 
