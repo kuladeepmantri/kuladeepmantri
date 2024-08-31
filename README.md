@@ -1,4 +1,4 @@
-Here's a refined, advanced, and minimal README that focuses on creativity and modern design without unnecessary elements:
+Here's a streamlined and modern version of your GitHub README that aligns with your preferences:
 
 ---
 
@@ -12,52 +12,44 @@ Here's a refined, advanced, and minimal README that focuses on creativity and mo
 
 ### About Me
 
-I'm **Kuladeep Bhushan Mantri**, a cybersecurity expert with a Master’s degree in Cybersecurity from Illinois Institute of Technology, Chicago. With a deep understanding of ethical hacking and cloud security, I’m currently exploring the intersection of AI and machine learning to develop intelligent and secure systems.
-
----
-
-### Expertise
-
-**Cybersecurity**
-- Vulnerability Management: Experienced with Metasploit, Nessus, and Nmap.
-- Cloud Security: Specializing in Azure and AWS environments.
-- Compliance & Governance: Skilled in NIST 800-53, PCI-DSS, and ISO 27001 frameworks.
-
-**AI & Machine Learning**
-- Frameworks: Proficient in PyTorch and TensorFlow.
-- Focus Areas: Developing AI models with a strong emphasis on security.
-
-**Programming**
-- Python: Writing efficient, clean code for automation and problem-solving.
-- Bash: Enhancing system operations with custom scripts.
+I’m **Kuladeep Bhushan Mantri**, a cybersecurity professional with a Master’s degree in Cybersecurity from Illinois Institute of Technology. I specialize in ethical hacking, cloud security, and am now venturing into AI and machine learning to innovate and enhance security systems.
 
 ---
 
 ### Education & Certifications
 
-- **Master’s in Cybersecurity**  
-  _Illinois Institute of Technology, Chicago_
+**Master’s in Cybersecurity**  
+_Illinois Institute of Technology, Chicago_
 
-- **Certified Ethical Hacker (CEH)**  
-  _EC-Council_
+**Certified Ethical Hacker (CEH)**  
+_EC-Council_
+
+---
+
+### Skills & Tools
+
+**Cybersecurity:**
+- Vulnerability Management: Metasploit, Nessus, Nmap
+- Cloud Security: Azure, AWS
+
+**AI & Machine Learning:**
+- Frameworks: PyTorch, TensorFlow
+
+**Programming:**
+- Languages: Python, Bash, JavaScript
 
 ---
 
 ### Let's Connect
 
-I’m always interested in collaborating on new projects or discussing innovative ideas. Feel free to reach out!
-
-- **Email:** [kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)
-- **LinkedIn:** [linkedin.com/in/kuladeepmantri](https://linkedin.com/in/kuladeepmantri)
+[Email](mailto:kuladeepbmantri@gmail.com) | [LinkedIn](https://linkedin.com/in/kuladeepmantri)
 
 ---
 
-### Final Note
+### Final Thought
 
-I’m driven by the belief that the future of cybersecurity lies in intelligent systems. My work is dedicated to building secure solutions that are also smart and adaptive. Let’s connect and see how we can innovate together.
-
-![Footer](https://via.placeholder.com/1200x100.png?text=Innovating+at+the+Intersection+of+Security+and+AI) <!-- Replace with your footer image -->
+I’m committed to combining cybersecurity with AI to build secure, intelligent systems. Let’s collaborate and push the boundaries of what’s possible in technology.
 
 ---
 
-This version strips away unnecessary badges and focuses on a clean, modern design that highlights your key strengths and background without clutter. It’s simple, elegant, and professional, with a modern touch that reflects your expertise.
+This version maintains a clean and modern aesthetic, removing unnecessary borders and emojis, while focusing on the essentials. The badges are kept minimal, and the layout is designed to be visually appealing and easy to navigate.
