@@ -28,13 +28,11 @@
 
 ## 🎓 Education & Certifications
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; font-weight: bold; font-size: 1.2em;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Illinois_Institute_of_Technology_logo.svg" alt="IIT Logo" width="30">
-    <span>Master’s in Cybersecurity</span>
-    <span>&mdash;</span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CEH_badge.svg/1200px-CEH_badge.svg.png" alt="CEH Logo" width="30">
-    <span>CEH EC-COUNCIL</span>
-</div>
+- **Master’s in Cybersecurity**  
+  _Illinois Institute of Technology, Chicago_
+
+- **Certified Ethical Hacker (CEH)**  
+  _EC-Council_
 
 ---
 
