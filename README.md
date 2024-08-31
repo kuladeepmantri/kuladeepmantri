@@ -1,13 +1,16 @@
-Here's a revised README for your GitHub profile, inspired by the example you provided. This version incorporates badges, images, and a modern layout while keeping it minimal and professional:
+Here’s a revised README with a unique touch, inspired by the example you provided but tailored to be distinct and modern:
 
 ---
 
-<img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your banner image -->
+<img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your custom banner image -->
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&width=1200&lines=Cybersecurity+Professional;AI+and+Machine+Learning+Enthusiast;Certified+Ethical+Hacker)](https://git.io/typing-svg)
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=289BF9&center=true&vCenter=true&width=1000&lines=Cybersecurity+Professional;AI+%26+Machine+Learning+Enthusiast;Certified+Ethical+Hacker" alt="Typing SVG">
+</div>
 
-<p align="center" style="text-decoration:none;"> 
-     <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"> 『 Connect with Me on LinkedIn 』</a>
+<p align="center">
+    <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
@@ -30,9 +33,11 @@ Here's a revised README for your GitHub profile, inspired by the example you pro
 
 ## 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kuladeepbmantri@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kuladeepmantri)
+<div align="center">
+    <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+    <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+</div>
 
 ---
 
-This README now features a modern, clean design with a header image, typewriter-style text animation, and a selection of relevant badges. It presents your skills, education, and certifications effectively while maintaining a professional and visually appealing layout. Feel free to customize the images and links as needed.
+This version adds a unique typing animation and uses modern, sleek icons for your LinkedIn and email contact options. It maintains a professional, distinct style without directly copying from the inspiration, ensuring your profile stands out on its own.
