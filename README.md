@@ -1,9 +1,4 @@
-<img src="https://github.com/kuladeepmantri/kuladeepmantri/blob/main/kmantri.gif?raw=true" width="1000"> <!-- Replace with your custom banner image -->
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1200&pause=800&color=B8416B&center=true&vCenter=true&width=800&lines=Focused+on+Cybersecurity;Exploring+AI+and+Machine+Learning;Building+Practical+Tech+Solutions;Always+Learning+and+Growing" alt="Cool Animation">
-</div>
-
+<img src="https://github.com/kuladeepmantri/kuladeepmantri/blob/main/kmantri.gif?raw=true" width="1000">
 ---
 
 ## Skills & Expertise
