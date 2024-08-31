@@ -1,7 +1,7 @@
 <img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your custom banner image -->
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=800&color=B8416B&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;AI+and+ML+Enthusiast;Always+Learning;Building+Secure+Systems" alt="Cool Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1200&pause=800&color=B8416B&center=true&vCenter=true&width=800&lines=Passionate+about+Cybersecurity;Exploring+the+World+of+AI+and+ML;Building+Intelligent+and+Secure+Systems;Dedicated+to+Lifelong+Learning;Creating+Impactful+Security+Solutions" alt="Cool Animation">
 </div>
 
 ---
