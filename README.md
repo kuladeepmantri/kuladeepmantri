@@ -40,6 +40,6 @@
 ## Let’s Connect
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-    <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
