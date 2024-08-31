@@ -1,4 +1,4 @@
-# Kuladeep Bhushan Mantri
+[# Kuladeep Bhushan Mantri
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri) <!-- Replace with your banner image -->
 
@@ -68,11 +68,4 @@ _A SaaS application designed to harness the power of open-source intelligence, p
 My goal is to bridge the gap between cybersecurity and AI, creating solutions that are not only secure but also intelligent. I’m always open to collaboration and learning from the community, so feel free to reach out!
 
 ![Footer Image](https://via.placeholder.com/1200x100.png?text=Let’s+Build+the+Future+Together) <!-- Replace with your footer image -->
-
----
-
-### Tips for Customization:
-- Replace placeholder images with your actual project screenshots or any relevant visuals.
-- Adjust the color scheme of badges/icons to match your personal brand.
-- Add links to your projects or any other social media profiles you'd like to showcase.
 
