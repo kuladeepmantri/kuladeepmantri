@@ -1,7 +1,7 @@
 <img src="https://via.placeholder.com/1200x300.png?text=Kuladeep+Bhushan+Mantri" width="1000"> <!-- Replace with your custom banner image -->
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=B8416B&center=true&vCenter=true&width=800&lines=Building+Secure+Systems;Exploring+AI+Possibilities;Cybersecurity+Professional;Committed+to+Continuous+Learning" alt="Cool Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=B8416B&center=true&vCenter=true&width=800&lines=Building+Secure+Systems;Exploring+AI+Possibilities;Cybersecurity+Professional;Committed+to+Continuous+Learning" alt="Cool Animation">
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 ### **Cloud & Virtualization:**
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure](https://img.shields.io/badge/Cloud-0089D6?style=for-the-badge&logo=cloud&logoColor=white)](https://azure.microsoft.com/) [![AWS](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=cloud&logoColor=white)](https://aws.amazon.com/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 ### **AI & Machine Learning:**
 
