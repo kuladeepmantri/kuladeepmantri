@@ -26,8 +26,6 @@
 
 ---
 
-## 🎓 Education & Certifications
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://www.iit.edu/"><img src="https://img.shields.io/badge/Master's_in_Cybersecurity-Illinois_Institute_of_Technology-CC0033?style=for-the-badge&logo=illinoisinstituteoftechnology&logoColor=white"></a>
     <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council-red?style=for-the-badge&logo=certifiedethicalhacker&logoColor=white"></a>
@@ -35,7 +33,9 @@
 
 ---
 
-<div align="center">
+## 🤝 Let’s Connect
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="mailto:kuladeepbmantri@gmail.com"><img src="https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
     <a href="https://linkedin.com/in/kuladeepmantri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </div>
