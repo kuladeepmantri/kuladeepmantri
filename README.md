@@ -29,10 +29,10 @@
 ## Education & Certifications
 
 <div align="center" style="text-align:center; font-size: 1.2em; line-height: 1.8em;">
-    <span style="color: #CC0033; font-weight: bold;">Master’s in Cybersecurity</span><br>
-    <span style="color: #555;">Illinois Institute of Technology, Chicago</span><br><br>
-    <span style="color: #EC2028; font-weight: bold;">Certified Ethical Hacker</span><br>
-    <span style="color: #555;">EC-Council</span>
+    <strong>Master’s in Cybersecurity</strong><br>
+    <em>Illinois Institute of Technology, Chicago</em><br><br>
+    <strong>Certified Ethical Hacker</strong><br>
+    <em>EC-Council</em>
 </div>
 
 ---
