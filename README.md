@@ -1,48 +1,24 @@
-<!-- HEADER -->
-<h1 align="center" style="font-size:2.5rem; letter-spacing:1px;">KULADEEP MANTRI</h1>
-<p align="center" style="font-size:1.1rem; color:gray;"><strong>Cybersecurity Engineer · AI Explorer · Creative Technologist</strong></p>
+<h1 align="center">Kuladeep Mantri</h1>
+<p align="center"><strong>Cybersecurity Engineer · AI Enthusiast · Web Designer</strong></p>
+<p align="center"><em>Always building. Always learning.</em></p>
 
----
+### About Me
+Security is my bread and butter — I design secure architectures, perform penetration testing, and work with compliance frameworks.  
+Beyond that, I explore AI, design websites, and experiment with new technologies.  
+GitHub is my sandbox for testing ideas, creating tools, and pushing boundaries.
 
-<!-- INTRO -->
-<p align="center">
-Security is my foundation.  
-Innovation is my curiosity.  
-This is my space for building, experimenting, and exploring technology.
-</p>
+### What I Work On
+- **Cybersecurity** – Cloud security, penetration testing, compliance, threat detection  
+- **AI Projects** – LLM experiments, automation tools, AI-assisted security solutions  
+- **Web Design** – Minimal, modern portfolio sites & creative front-end projects  
+- **Tech Experiments** – Trying new frameworks, APIs, and unconventional builds  
 
----
+### Philosophy
+- Build practical, well-crafted solutions  
+- Stay curious and adaptable  
+- Learn by breaking and rebuilding  
+- Blend security with innovation  
 
-<!-- SECTIONS -->
-<h3 align="center">⚡ CURRENT FOCUS</h3>
-
-<p align="center">
-<b>Cybersecurity:</b> Cloud security, penetration testing, compliance frameworks  
-<b>AI Projects:</b> LLM experiments, AI-driven security tools  
-<b>Web Design:</b> Minimal, modern portfolios & interactive interfaces  
-<b>Tech Experiments:</b> Trying new frameworks, APIs, and tools
-</p>
-
----
-
-<h3 align="center">🛠 PHILOSOPHY</h3>
-
-<p align="center">
-<em>"Build practical. Stay curious. Learn by breaking and rebuilding."</em>
-</p>
-
----
-
-<!-- CONTACT -->
-<h3 align="center">📫 CONNECT</h3>
-
-<p align="center">
-<a href="mailto:kuladeepbmantri@gmail.com">kuladeepbmantri@gmail.com</a>  
-<a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a>
-</p>
-
----
-
-<p align="center" style="color:gray; font-size:0.9rem;">
-Always building · Always learning
-</p>
+### Connect
+📧 [kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)  
+🔗 [linkedin.com/in/kuladeepmantri](https://linkedin.com/in/kuladeepmantri)
