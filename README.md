@@ -1,5 +1,4 @@
-<h1 align="center">Kuladeep Mantri</h1>
-<p align="center"><strong>Cybersecurity Engineer · AI Enthusiast · Web Designer</strong></p>
+<p align="center"><strong>Cybersecurity Engineer · AI & Emerging Technology · Web Designer</strong></p>
 <p align="center"><em>Always building. Always learning.</em></p>
 
 ### About Me
@@ -9,7 +8,7 @@ GitHub is my sandbox for testing ideas, creating tools, and pushing boundaries.
 
 ### What I Work On
 - **Cybersecurity** – Cloud security, penetration testing, compliance, threat detection  
-- **AI Projects** – LLM experiments, automation tools, AI-assisted security solutions  
+- **AI & Emerging Tech** – LLM experiments, automation tools, AI-assisted security solutions  
 - **Web Design** – Minimal, modern portfolio sites & creative front-end projects  
 - **Tech Experiments** – Trying new frameworks, APIs, and unconventional builds  
 
@@ -20,5 +19,5 @@ GitHub is my sandbox for testing ideas, creating tools, and pushing boundaries.
 - Blend security with innovation  
 
 ### Connect
-📧 [kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)  
-🔗 [linkedin.com/in/kuladeepmantri](https://linkedin.com/in/kuladeepmantri)
+[✉️ Email](mailto:kuladeepbmantri@gmail.com)  
+[🔗 LinkedIn](https://linkedin.com/in/kuladeepmantri)
