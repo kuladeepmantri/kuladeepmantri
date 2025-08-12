@@ -1,36 +1,48 @@
-<h1 align="center">Kuladeep Mantri</h1>
-<p align="center"><strong>Cybersecurity Engineer · AI Enthusiast · Web Designer</strong></p>
+<!-- HEADER -->
+<h1 align="center" style="font-size:2.5rem; letter-spacing:1px;">KULADEEP MANTRI</h1>
+<p align="center" style="font-size:1.1rem; color:gray;"><strong>Cybersecurity Engineer · AI Explorer · Creative Technologist</strong></p>
 
 ---
 
-## About Me
-Security is my **bread and butter** — I design secure architectures, perform penetration testing, and ensure compliance with industry frameworks.  
-But that’s only part of the story. I explore **AI**, build **web experiences**, and experiment with **emerging technologies**.  
-GitHub is my sandbox — the place where I test ideas, create tools, and try new things.
+<!-- INTRO -->
+<p align="center">
+Security is my foundation.  
+Innovation is my curiosity.  
+This is my space for building, experimenting, and exploring technology.
+</p>
 
 ---
 
-## What I Work On
-- **Cybersecurity** – Cloud security, penetration testing, compliance, threat detection  
-- **AI Projects** – LLM experiments, automation tools, AI-assisted security solutions  
-- **Web Design** – Minimal, modern portfolio sites & creative front-end projects  
-- **Tech Experiments** – Testing new frameworks, APIs, and unconventional builds  
+<!-- SECTIONS -->
+<h3 align="center">⚡ CURRENT FOCUS</h3>
+
+<p align="center">
+<b>Cybersecurity:</b> Cloud security, penetration testing, compliance frameworks  
+<b>AI Projects:</b> LLM experiments, AI-driven security tools  
+<b>Web Design:</b> Minimal, modern portfolios & interactive interfaces  
+<b>Tech Experiments:</b> Trying new frameworks, APIs, and tools
+</p>
 
 ---
 
-## My Approach
-I believe in:
-- Building **practical, well-crafted solutions**  
-- Staying **curious and adaptable**  
-- Learning by **breaking and rebuilding**  
-- Blending **security with innovation**  
+<h3 align="center">🛠 PHILOSOPHY</h3>
+
+<p align="center">
+<em>"Build practical. Stay curious. Learn by breaking and rebuilding."</em>
+</p>
 
 ---
 
-## Connect
-**Email:** [kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)  
-**LinkedIn:** [linkedin.com/in/kuladeepmantri](https://linkedin.com/in/kuladeepmantri)  
+<!-- CONTACT -->
+<h3 align="center">📫 CONNECT</h3>
+
+<p align="center">
+<a href="mailto:kuladeepbmantri@gmail.com">kuladeepbmantri@gmail.com</a>  
+<a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a>
+</p>
 
 ---
 
-<p align="center"><em>Always building. Always learning.</em></p>
+<p align="center" style="color:gray; font-size:0.9rem;">
+Always building · Always learning
+</p>
