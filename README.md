@@ -1,4 +1,4 @@
-<img src="https://github.com/kuladeepmantri/kuladeepmantri/blob/main/Kuladeep%20Bhushan%20Mantri.gif?raw=true" width="1000">
+
 
 ## Skills & Expertise
 
