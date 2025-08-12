@@ -12,4 +12,3 @@ GitHub is my sandbox for testing ideas, creating tools, and pushing boundaries.
 ### Connect
 <a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a> &nbsp; <a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
 
-> Curious about how things work, and how they can work better.
