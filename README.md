@@ -16,9 +16,9 @@ GitHub is my sandbox for testing ideas, creating tools, and pushing boundaries.
 - Blend security with innovation
 
   
+
 ### Connect
-Email: [kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com) |  
-LinkedIn: [linkedin.com/in/kuladeepmantri](https://linkedin.com/in/kuladeepmantri)
+[Email](mailto:kuladeepbmantri@gmail.com) • [LinkedIn](https://linkedin.com/in/kuladeepmantri)
 
 ---
 
