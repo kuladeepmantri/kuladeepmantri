@@ -1,35 +1,36 @@
-# 👋 Hey there, I'm Kuladeep
-
-I’m a **Cybersecurity Analyst** passionate about securing systems, building efficient security workflows, and exploring AI integrations in security.
-
----
-
-## 🔹 Skills & Tools
-
-**Cybersecurity**  
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) 
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/) 
-[![Nessus](https://img.shields.io/badge/Nessus-005571?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus) 
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/) 
-[![Splunk](https://img.shields.io/badge/Splunk-64A526?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
-
-**Cloud & Virtualization**  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) 
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) 
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) 
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
-
-**AI & Machine Learning**  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) 
-[![LangChain](https://img.shields.io/badge/LangChain-37a779?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+<h1 align="center">Kuladeep Mantri</h1>
+<p align="center"><strong>Cybersecurity Engineer · AI Enthusiast · Web Designer</strong></p>
 
 ---
 
-## 📫 Let’s Connect
-
-[![Gmail](https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuladeepbmantri@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuladeep%20Mantri-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuladeepmantri)
+## About Me
+Security is my **bread and butter** — I design secure architectures, perform penetration testing, and ensure compliance with industry frameworks.  
+But that’s only part of the story. I explore **AI**, build **web experiences**, and experiment with **emerging technologies**.  
+GitHub is my sandbox — the place where I test ideas, create tools, and try new things.
 
 ---
+
+## What I Work On
+- **Cybersecurity** – Cloud security, penetration testing, compliance, threat detection  
+- **AI Projects** – LLM experiments, automation tools, AI-assisted security solutions  
+- **Web Design** – Minimal, modern portfolio sites & creative front-end projects  
+- **Tech Experiments** – Testing new frameworks, APIs, and unconventional builds  
+
+---
+
+## My Approach
+I believe in:
+- Building **practical, well-crafted solutions**  
+- Staying **curious and adaptable**  
+- Learning by **breaking and rebuilding**  
+- Blending **security with innovation**  
+
+---
+
+## Connect
+**Email:** [kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)  
+**LinkedIn:** [linkedin.com/in/kuladeepmantri](https://linkedin.com/in/kuladeepmantri)  
+
+---
+
+<p align="center"><em>Always building. Always learning.</em></p>
