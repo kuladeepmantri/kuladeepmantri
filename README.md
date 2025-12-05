@@ -4,7 +4,6 @@ Beyond that, I explore AI, design websites, and experiment with new technologies
 GitHub is my sandbox for testing ideas, creating tools, and pushing boundaries.
 
 ### What I Work On
-## What I Work On
 
 **Cybersecurity & Compliance**  
 - Secure cloud architecture reviews and risk analysis  
