@@ -1,32 +1,32 @@
 ### About Me
-I design secure architectures, perform penetration testing, and work with compliance frameworks.  
-Beyond that, I explore AI, design websites, and experiment with new technologies.  
-GitHub is my sandbox for testing ideas, creating tools, and pushing boundaries.
+I work in cybersecurity with a focus on secure architectures, penetration testing, and compliance frameworks.  
+In parallel, I explore advancements in artificial intelligence, build web interfaces, and experiment with emerging technologies.  
+GitHub serves as a space for research, prototyping, and developing tools that extend both practicality and curiosity.
 
 ### What I Work On
 
 **Cybersecurity & Compliance**  
-- Secure cloud architecture reviews and risk analysis  
-- Penetration testing for web, network, and cloud environments  
-- Threat modeling, vulnerability assessment, exploit research  
-- Work with NIST 800-53, CJIS, SOC2-style controls and audit evidence  
+- Secure cloud architecture evaluation and risk-based review  
+- Penetration testing involving web applications, networks, and cloud platforms  
+- Threat modeling, vulnerability analysis, and exploit research  
+- Experience with NIST 800-53, CJIS, SOC2-style controls, and evidence-driven compliance work  
 
 **Application & Systems Development**  
-- Security tools, automation scripts, and internal utilities  
-- Python for automation, APIs, and PoCs  
-- Low-level projects in C and Rust for system-level tooling  
-- Interest in OS internals, memory safety, and performance-focused code  
+- Development of security tools, automation utilities, and internal workflows  
+- Extensive use of Python for automation, API interaction, and proof-of-concept development  
+- Low-level engineering projects in C and Rust for system-oriented tooling  
+- Particular interest in operating system internals, memory safety, and performance-focused design  
 
-**AI & Emerging Tech**  
-- LLM-based security automation and compliance workflows  
-- Model integration, embeddings, local inference setups  
-- Experiments around AI-assisted auditing and reporting  
+**AI & Emerging Technologies**  
+- Research on LLM-driven security automation and compliance processes  
+- Work on model integration, embeddings, and local inference environments  
+- Experiments in AI-supported auditing, report generation, and workflow augmentation  
 
 **Web & Front-End Engineering**  
-- Minimal, modern UI-driven web projects  
-- Front-end development with React/Next.js  
-- Clean, performance-focused design and structure  
+- Design and development of minimal, structured, modern web interfaces  
+- Projects implemented primarily with React and Next.js  
+- Emphasis on clarity, performance, and clean architectural layout  
 
 ### Connect
-<a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a> &nbsp; <a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
-
+<a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a>  
+<a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
