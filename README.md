@@ -1,12 +1,10 @@
-# KULADEEP MANTRI
-
 Security researcher.
 
 I focus on cloud security, offensive testing, and building tools that make security work repeatable and measurable.
 
 <a href="https://kuladeepmantri.com/"><kbd>kuladeepmantri.com</kbd></a>
 
-<hr>
+
 
 <table>
   <tr>
@@ -33,7 +31,6 @@ I focus on cloud security, offensive testing, and building tools that make secur
   </tr>
 </table>
 
-<hr>
 
 ## 01 TECHNICAL AREAS
 
