@@ -15,7 +15,7 @@ I focus on cloud security, offensive testing, and building tools that make secur
       Vulnerability research, secure architecture review, and hands-on testing across cloud, web, networks, and Linux systems.
       <br><br>
       <b>Outputs</b><br>
-      Reproduction steps, evidence, severity rationale, remediation guidance.<br>
+      Clear reproduction steps, evidence, severity rationale, and remediation guidance.<br>
       Tools and automation that reduce manual effort and improve consistency.
     </td>
     <td width="38%" valign="top">
@@ -43,29 +43,25 @@ I focus on cloud security, offensive testing, and building tools that make secur
       <b>Cloud security</b><br>
       Architecture evaluation and risk-based review<br>
       Threat modeling and attack paths<br>
-      Identity, segmentation, and service-to-service trust boundaries<br>
-      Control alignment tied to how teams actually deploy
+      Control alignment tied to real deployments
     </td>
     <td width="50%" valign="top">
       <b>Offensive security</b><br>
       Web, network, and cloud testing<br>
       Vulnerability analysis and validation<br>
-      Exploit research when appropriate<br>
-      Reporting with reproduction and remediation detail
+      Exploit research when appropriate
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>Security engineering</b><br>
       Tooling, automation, integrations, workflows<br>
-      Making investigations repeatable<br>
-      Turning findings into checks and guardrails
+      Repeatable processes for investigation and delivery
     </td>
     <td width="50%" valign="top">
       <b>Systems work</b><br>
       System-oriented tooling in C and Rust<br>
-      OS internals, memory safety, performance<br>
-      Practical reliability and observability
+      OS internals, memory safety, performance
     </td>
   </tr>
 </table>
@@ -79,28 +75,24 @@ I focus on cloud security, offensive testing, and building tools that make secur
     <td width="50%" valign="top">
       <b>Tooling</b><br>
       Security tools and automation utilities<br>
-      Scripts that standardize repeated tasks<br>
-      Lab and VM utilities for controlled environments
+      Lab utilities for controlled environments
     </td>
     <td width="50%" valign="top">
       <b>Research and prototypes</b><br>
       Proof-of-concept work where disclosure permits<br>
-      Exploit and detection experiments<br>
-      System and workflow prototypes
+      Systems experiments and interface prototypes
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>Interfaces</b><br>
-      Minimal UI for security tooling<br>
-      Dashboards and operational views<br>
-      Clear layout, fast scanning
+      Presenting security data clearly<br>
+      Minimal UI for operational use
     </td>
     <td width="50%" valign="top">
-      <b>Engineering notes</b><br>
-      Short writeups and implementation notes<br>
-      Configuration and deployment patterns<br>
-      Practical tradeoffs recorded
+      <b>Workflows</b><br>
+      Repeatable processes for investigation and delivery<br>
+      Integrations that increase consistency
     </td>
   </tr>
 </table>
@@ -112,17 +104,15 @@ I focus on cloud security, offensive testing, and building tools that make secur
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Security workflows</b><br>
-      LLM integration for security automation<br>
-      Structured generation for reports and checklists<br>
-      Embeddings and retrieval for knowledge organization<br>
+      <b>Security operations</b><br>
+      Structured automation for security work<br>
+      Retrieval and embeddings for knowledge organization<br>
       Local inference environments and integration experiments
     </td>
     <td width="50%" valign="top">
       <b>Quantum exploration</b><br>
       Quantum computing concepts<br>
-      Security implications and threat modeling<br>
-      Learning focused on primitives and realistic timelines
+      Security implications and threat modeling
     </td>
   </tr>
 </table>
@@ -136,8 +126,7 @@ I focus on cloud security, offensive testing, and building tools that make secur
     <td width="50%" valign="top">
       <b>Delivery</b><br>
       Evidence-driven control implementation and validation<br>
-      Control narratives, SSP inputs, audit readiness workflows<br>
-      Connecting controls to operational reality
+      Control narratives, SSP inputs, audit readiness workflows
     </td>
     <td width="50%" valign="top">
       <b>Framework exposure</b><br>
