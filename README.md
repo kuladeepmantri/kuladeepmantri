@@ -1,68 +1,155 @@
 # KULADEEP MANTRI
 
-Cybersecurity. Systems. Interfaces.
+Security researcher.
 
-I design, test, and document security work as usable artifacts.
+I focus on cloud security, offensive testing, and building tools that make security work repeatable and measurable.
 
-GitHub is a workshop: research, prototypes, and components that can ship.
+<a href="https://kuladeepmantri.com/"><kbd>kuladeepmantri.com</kbd></a>
 
-## NAV
+<hr>
 
-| Section | Contents             |
-| ------- | -------------------- |
-| 01      | Profile              |
-| 02      | Work system          |
-| 03      | Operating principles |
-| 04      | Build stack          |
-| 05      | Connect              |
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <b>Scope</b><br>
+      Vulnerability research, secure architecture review, and hands-on testing across cloud, web, networks, and Linux systems.
+      <br><br>
+      <b>Outputs</b><br>
+      Reproduction steps, evidence, severity rationale, remediation guidance.<br>
+      Tools and automation that reduce manual effort and improve consistency.
+    </td>
+    <td width="38%" valign="top">
+      <b>Stack</b><br>
+      <code>Python</code> <code>C</code> <code>Rust</code><br>
+      <code>Linux</code> <code>Networking</code><br>
+      <code>React</code> <code>Next.js</code><br>
+      <code>Local inference</code> <code>Embeddings</code>
+      <br><br>
+      <b>Frameworks</b><br>
+      NIST 800-53<br>
+      CJIS<br>
+      SOC 2 style controls
+    </td>
+  </tr>
+</table>
 
-## 01 PROFILE
+<hr>
 
-Cybersecurity engineer focused on:
+## 01 TECHNICAL AREAS
 
-* Secure architecture evaluation and risk-based review
-* Penetration testing with disciplined reporting
-* Compliance execution with evidence as the center of gravity
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Cloud security</b><br>
+      Architecture evaluation and risk-based review<br>
+      Threat modeling and attack paths<br>
+      Identity, segmentation, and service-to-service trust boundaries<br>
+      Control alignment tied to how teams actually deploy
+    </td>
+    <td width="50%" valign="top">
+      <b>Offensive security</b><br>
+      Web, network, and cloud testing<br>
+      Vulnerability analysis and validation<br>
+      Exploit research when appropriate<br>
+      Reporting with reproduction and remediation detail
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Security engineering</b><br>
+      Tooling, automation, integrations, workflows<br>
+      Making investigations repeatable<br>
+      Turning findings into checks and guardrails
+    </td>
+    <td width="50%" valign="top">
+      <b>Systems work</b><br>
+      System-oriented tooling in C and Rust<br>
+      OS internals, memory safety, performance<br>
+      Practical reliability and observability
+    </td>
+  </tr>
+</table>
 
-Parallel track:
+<hr>
 
-* AI-assisted workflows for security and compliance operations
-* Minimal web interfaces for security tooling
+## 02 REPOSITORY MAP
 
-## 02 WORK SYSTEM
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Tooling</b><br>
+      Security tools and automation utilities<br>
+      Scripts that standardize repeated tasks<br>
+      Lab and VM utilities for controlled environments
+    </td>
+    <td width="50%" valign="top">
+      <b>Research and prototypes</b><br>
+      Proof-of-concept work where disclosure permits<br>
+      Exploit and detection experiments<br>
+      System and workflow prototypes
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Interfaces</b><br>
+      Minimal UI for security tooling<br>
+      Dashboards and operational views<br>
+      Clear layout, fast scanning
+    </td>
+    <td width="50%" valign="top">
+      <b>Engineering notes</b><br>
+      Short writeups and implementation notes<br>
+      Configuration and deployment patterns<br>
+      Practical tradeoffs recorded
+    </td>
+  </tr>
+</table>
 
-A map of what I do and what it produces.
+<hr>
 
-| Domain                | Typical outputs                                                           |
-| --------------------- | ------------------------------------------------------------------------- |
-| Security architecture | Risk notes, control alignment, design deltas, decision-ready summaries    |
-| Offensive testing     | Findings with reproduction steps, severity rationale, remediation paths   |
-| Threat analysis       | Threat models, attack paths, prioritization, validation checks            |
-| Compliance delivery   | Evidence sets, SSP inputs, control narratives, audit-ready artifacts      |
-| Automation            | Repeatable scripts, guardrails, operational glue that reduces manual work |
-| Systems               | Small tools in C or Rust for performance, safety, and reliability         |
-| AI workflows          | LLM integration, embeddings experiments, structured generation for ops    |
-| Web interfaces        | React and Next.js surfaces that present security data clearly             |
+## 03 MODEL ASSISTED WORKFLOWS
 
-## 03 OPERATING PRINCIPLES
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Security workflows</b><br>
+      LLM integration for security automation<br>
+      Structured generation for reports and checklists<br>
+      Embeddings and retrieval for knowledge organization<br>
+      Local inference environments and integration experiments
+    </td>
+    <td width="50%" valign="top">
+      <b>Quantum exploration</b><br>
+      Quantum computing concepts<br>
+      Security implications and threat modeling<br>
+      Learning focused on primitives and realistic timelines
+    </td>
+  </tr>
+</table>
 
-| Principle           | What it means                                                  |
-| ------------------- | -------------------------------------------------------------- |
-| Reduce surface area | Fewer dependencies, headless-first, predictable services       |
-| Evidence first      | Logs, configs, screenshots, and reproducible steps over claims |
-| Tight loops         | Build small, test early, iterate based on real signals         |
-| Clear output        | Reports that are readable, actionable, and decision-ready      |
-| Performance matters | Simple systems are easier to secure and easier to operate      |
+<hr>
 
-## 04 BUILD STACK
+## 04 COMPLIANCE
 
-| Layer      | Tools and focus                                                |
-| ---------- | -------------------------------------------------------------- |
-| Automation | Python for APIs, automation, and fast proof-of-concept work    |
-| Systems    | C and Rust for low-level tooling, memory safety, performance   |
-| AI         | Local inference experiments, embeddings, workflow augmentation |
-| Interfaces | React and Next.js for minimal, structured UI                   |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Delivery</b><br>
+      Evidence-driven control implementation and validation<br>
+      Control narratives, SSP inputs, audit readiness workflows<br>
+      Connecting controls to operational reality
+    </td>
+    <td width="50%" valign="top">
+      <b>Framework exposure</b><br>
+      NIST 800-53<br>
+      CJIS<br>
+      SOC 2 style controls
+    </td>
+  </tr>
+</table>
 
-## 05 CONNECT
+<hr>
 
-<a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a> <a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
+## LINKS
+
+<a href="https://kuladeepmantri.com/"><kbd>Website</kbd></a> <a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a> <a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
