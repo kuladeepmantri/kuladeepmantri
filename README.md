@@ -1,97 +1,49 @@
+# Kuladeep Mantri
+
 Security researcher.
 
-I focus on cloud security, offensive testing, and building tools.
+Cloud security · offensive security · security tooling
 
-<a href="https://kuladeepmantri.com/"><kbd>kuladeepmantri.com</kbd></a>
-
-
+<a href="https://kuladeepmantri.com/">kuladeepmantri.com</a>
 
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <b>Scope</b><br>
-      Vulnerability research, secure architecture review, and hands-on testing across cloud, web, networks, and Linux systems.
-      <br><br>
-      <b>Output</b><br>
-      Clear reproduction steps, evidence, severity rationale, and remediation guidance.
-      Tools and automation that reduce manual effort and improve consistency.
-    </td>
-    <td width="38%" valign="top">
-      <b>Technical stack</b><br>
-      Python, C, Rust<br>
-      Linux, networking<br>
-      React, Next.js<br>
-      Local inference, embeddings
-      <br><br>
-      <b>Frameworks</b><br>
-      NIST 800-53<br>
-      CJIS<br>
-      SOC 2 style controls
-    </td>
-  </tr>
-</table>
-
-
-## 01 TECHNICAL AREAS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Cloud security</b><br>
-      Architecture evaluation and risk-based review<br>
-      Threat modeling and attack paths<br>
-      Control alignment tied to real deployments
-    </td>
-    <td width="50%" valign="top">
-      <b>Offensive security</b><br>
+    <td width="56%" valign="top">
+      <b>Practice</b><br>
+      Secure architecture review and threat modeling<br>
+      Vulnerability research, validation, and exploit analysis<br>
       Web, network, and cloud testing<br>
-      Vulnerability analysis and validation<br>
-      Exploit research when appropriate
+      Writeups with reproduction steps and remediation guidance
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Security engineering</b><br>
-      Tooling, automation, integrations, workflows<br>
-      Repeatable processes for investigation and delivery
-    </td>
-    <td width="50%" valign="top">
-      <b>Systems work</b><br>
-      System-oriented tooling in C and Rust<br>
-      Interests: OS internals, memory safety, performance
+    <td width="44%" valign="top">
+      <b>Build</b><br>
+      Python: automation, APIs, integrations<br>
+      C and Rust: systems tooling, safer primitives<br>
+      React and Next.js: operational UI for security data<br>
+      Local inference, embeddings, workflow augmentation
     </td>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <b>Surfaces</b><br>
+      Linux systems and services<br>
+      Cloud workloads and identity boundaries<br>
+      Web application attack surfaces<br>
+      Network exposure and segmentation
+    </td>
+    <td width="44%" valign="top">
+      <b>Interests</b><br>
+      OS internals and memory safety<br>
+      Performance and reliability engineering<br>
+      Detection and validation workflows<br>
+      Quantum computing exploration
+    </td>
+  </tr>
+</table>
 
-## 02 RESEARCH OUTPUT
+NIST 800-53 · CJIS · SOC 2 style controls
 
-* Security tools and automation utilities
-* Proof-of-concept work where disclosure permits
-* Systems experiments and lab utilities
-* Interfaces for presenting security data clearly
-* AI-assisted workflows for security operations
-
-
-## 03 APPLIED AI
-
-* LLM-assisted security automation and workflow augmentation
-* Embeddings and retrieval patterns for structured knowledge
-* Local inference environments and integration experiments
-
-Additional exploration:
-
-* Quantum computing concepts and security implications
-
-
-## 04 COMPLIANCE DELIVERY
-
-* Evidence-driven control implementation and validation
-* Control narratives, SSP inputs, audit readiness workflows
-
-Framework exposure: NIST 800-53, CJIS, SOC 2 style controls
-
-
-## 05 LINKS
-
-<a href="https://kuladeepmantri.com/"><kbd>Website</kbd></a> <a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a> <a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
+<a href="mailto:kuladeepbmantri@gmail.com">Email</a> · <a href="https://linkedin.com/in/kuladeepmantri">LinkedIn</a>
