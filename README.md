@@ -1,49 +1,65 @@
-# Kuladeep Mantri
+# KULADEEP MANTRI
 
 Security researcher.
 
-Cloud security · offensive security · security tooling
+Cloud security · offensive research · systems tooling
 
-<a href="https://kuladeepmantri.com/">kuladeepmantri.com</a>
-
-<table>
-  <tr>
-    <td width="56%" valign="top">
-      <b>Practice</b><br>
-      Secure architecture review and threat modeling<br>
-      Vulnerability research, validation, and exploit analysis<br>
-      Web, network, and cloud testing<br>
-      Writeups with reproduction steps and remediation guidance
-    </td>
-    <td width="44%" valign="top">
-      <b>Build</b><br>
-      Python: automation, APIs, integrations<br>
-      C and Rust: systems tooling, safer primitives<br>
-      React and Next.js: operational UI for security data<br>
-      Local inference, embeddings, workflow augmentation
-    </td>
-  </tr>
-</table>
+[https://kuladeepmantri.com/](https://kuladeepmantri.com/)
 
 <table>
   <tr>
-    <td width="56%" valign="top">
-      <b>Surfaces</b><br>
-      Linux systems and services<br>
-      Cloud workloads and identity boundaries<br>
+    <td width="62%" valign="top">
+      <b>01 Research</b><br>
+      Vulnerability research and validation across cloud, web, networks, and Linux systems.<br>
+      Secure architecture review using threat modeling and attack-path analysis.<br>
+      Testing that produces reproducible evidence and clear remediation.
+      <br><br>
+      <b>02 Build</b><br>
+      Tools, automations, and interfaces that make security work repeatable.
+    </td>
+    <td width="38%" valign="top">
+      <b>03 Technical stack</b><br>
+      Python (automation, APIs, integrations)<br>
+      C and Rust (systems tooling, performance, safety)<br>
+      React and Next.js (operational UI)
+      <br><br>
+      <b>04 Domains</b><br>
+      Cloud platforms and identity boundaries<br>
       Web application attack surfaces<br>
-      Network exposure and segmentation
-    </td>
-    <td width="44%" valign="top">
-      <b>Interests</b><br>
-      OS internals and memory safety<br>
-      Performance and reliability engineering<br>
-      Detection and validation workflows<br>
-      Quantum computing exploration
+      Network exposure and segmentation<br>
+      Linux services and hardening
     </td>
   </tr>
 </table>
 
-NIST 800-53 · CJIS · SOC 2 style controls
+<details>
+  <summary><b>05 Applied AI</b></summary>
+  <br>
+  LLM-assisted workflow augmentation for security operations and reporting.<br>
+  Embeddings and retrieval patterns for structured knowledge.<br>
+  Local inference environments and integration experiments.
+</details>
 
-<a href="mailto:kuladeepbmantri@gmail.com">Email</a> · <a href="https://linkedin.com/in/kuladeepmantri">LinkedIn</a>
+<details>
+  <summary><b>06 Systems focus</b></summary>
+  <br>
+  OS internals, memory safety, and performance-oriented design.<br>
+  Tooling that stays small, observable, and easy to operate.
+</details>
+
+<details>
+  <summary><b>07 Compliance delivery</b></summary>
+  <br>
+  Evidence-driven implementation and validation.<br>
+  Control narratives and audit readiness workflows.<br>
+  Framework exposure: NIST 800-53, CJIS, SOC 2 style controls.
+</details>
+
+<details>
+  <summary><b>08 Exploration</b></summary>
+  <br>
+  Quantum computing concepts and security implications.
+</details>
+
+Email: <a href="mailto:kuladeepbmantri@gmail.com">[kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)</a><br>
+LinkedIn: <a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a>
