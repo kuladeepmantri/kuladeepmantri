@@ -1,65 +1,71 @@
 # KULADEEP MANTRI
 
-Security researcher.
+Security researcher
 
-Cloud security · offensive research · systems tooling
+<a href="https://kuladeepmantri.com/">kuladeepmantri.com</a> · <a href="mailto:kuladeepbmantri@gmail.com">email</a> · <a href="https://linkedin.com/in/kuladeepmantri">linkedin</a>
 
-[https://kuladeepmantri.com/](https://kuladeepmantri.com/)
+<br>
 
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <b>01 Research</b><br>
-      Vulnerability research and validation across cloud, web, networks, and Linux systems.<br>
-      Secure architecture review using threat modeling and attack-path analysis.<br>
-      Testing that produces reproducible evidence and clear remediation.
+    <td width="60%" valign="top">
+      <b>PRIMARY WORK</b><br>
+      Cloud security and architecture review<br>
+      Offensive testing: web, network, cloud<br>
+      Vulnerability research and validation<br>
+      Threat modeling and attack-path analysis<br>
+      Reporting with reproduction and remediation
       <br><br>
-      <b>02 Build</b><br>
-      Tools, automations, and interfaces that make security work repeatable.
+      <b>WHAT I BUILD</b><br>
+      Security tooling and automation<br>
+      Integrations that reduce manual work<br>
+      Interfaces that make security data readable
     </td>
-    <td width="38%" valign="top">
-      <b>03 Technical stack</b><br>
-      Python (automation, APIs, integrations)<br>
-      C and Rust (systems tooling, performance, safety)<br>
-      React and Next.js (operational UI)
+    <td width="40%" valign="top">
+      <b>TECHNICAL STACK</b><br>
+      Python: automation, APIs, integrations<br>
+      C and Rust: systems tooling, performance, safety<br>
+      Linux: services, hardening, networking<br>
+      React and Next.js: operational UI
       <br><br>
-      <b>04 Domains</b><br>
-      Cloud platforms and identity boundaries<br>
-      Web application attack surfaces<br>
-      Network exposure and segmentation<br>
-      Linux services and hardening
+      <b>ASSURANCE</b><br>
+      NIST 800-53 · CJIS · SOC 2 style controls
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>AREAS</b><br>
+      Identity boundaries<br>
+      Network exposure<br>
+      Web attack surfaces<br>
+      Cloud workloads
+    </td>
+    <td width="33%" valign="top">
+      <b>SYSTEMS</b><br>
+      OS internals<br>
+      Memory safety
+      <br>
+      Reliability
+      <br>
+      Performance
+    </td>
+    <td width="34%" valign="top">
+      <b>RESEARCH TRACKS</b><br>
+      LLM-assisted workflows<br>
+      Embeddings and retrieval<br>
+      Local inference environments<br>
+      Quantum computing exploration
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>05 Applied AI</b></summary>
+  <summary><b>NOTES</b></summary>
   <br>
-  LLM-assisted workflow augmentation for security operations and reporting.<br>
-  Embeddings and retrieval patterns for structured knowledge.<br>
-  Local inference environments and integration experiments.
+  I keep this profile compact. Technical depth is in repositories, diffs, and writeups.
 </details>
-
-<details>
-  <summary><b>06 Systems focus</b></summary>
-  <br>
-  OS internals, memory safety, and performance-oriented design.<br>
-  Tooling that stays small, observable, and easy to operate.
-</details>
-
-<details>
-  <summary><b>07 Compliance delivery</b></summary>
-  <br>
-  Evidence-driven implementation and validation.<br>
-  Control narratives and audit readiness workflows.<br>
-  Framework exposure: NIST 800-53, CJIS, SOC 2 style controls.
-</details>
-
-<details>
-  <summary><b>08 Exploration</b></summary>
-  <br>
-  Quantum computing concepts and security implications.
-</details>
-
-Email: <a href="mailto:kuladeepbmantri@gmail.com">[kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)</a><br>
-LinkedIn: <a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a>
