@@ -63,7 +63,6 @@ I focus on cloud security, offensive testing, and building tools that make secur
   </tr>
 </table>
 
-<hr>
 
 ## 02 RESEARCH OUTPUT
 
@@ -73,7 +72,6 @@ I focus on cloud security, offensive testing, and building tools that make secur
 * Interfaces for presenting security data clearly
 * AI-assisted workflows for security operations
 
-<hr>
 
 ## 03 APPLIED AI
 
@@ -85,7 +83,6 @@ Additional exploration:
 
 * Quantum computing concepts and security implications
 
-<hr>
 
 ## 04 COMPLIANCE DELIVERY
 
@@ -94,7 +91,6 @@ Additional exploration:
 
 Framework exposure: NIST 800-53, CJIS, SOC 2 style controls
 
-<hr>
 
 ## 05 LINKS
 
