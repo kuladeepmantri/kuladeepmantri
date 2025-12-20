@@ -1,90 +1,103 @@
-# Kuladeep Mantri
+# KULADEEP MANTRI
 
 Security researcher.
 
-Cloud security · offensive testing · tool-building
+Cloud security · offensive testing · security tooling
 
-<a href="https://kuladeepmantri.com/"><kbd>Website</kbd></a> <a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a> <a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
+<a href="https://kuladeepmantri.com/"><kbd>kuladeepmantri.com</kbd></a>
 
----
+<hr>
+
+## 01 SCOPE
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <b>Scope</b><br>
-      Vulnerability research and validation across cloud, web, networks, and Linux systems.<br>
-      Secure architecture review using threat modeling and attack-path thinking.<br>
-      Offensive security work with reproducible writeups and remediation guidance.<br>
-      Tools and automation that make security work repeatable.
+    <td width="62%" valign="top">
+      <b>Work surface</b><br>
+      Vulnerability research, secure architecture review, and hands-on testing across cloud, web, networks, and Linux systems.
+      <br><br>
+      <b>Deliverables</b><br>
+      Clear reproduction steps, evidence, severity rationale, and remediation guidance.
+      Tools and automation that reduce manual effort and improve consistency.
     </td>
-    <td width="42%" valign="top">
-      <b>Output style</b><br>
-      Evidence first<br>
-      Reproduction steps that hold up<br>
-      Clear severity rationale<br>
-      Fixes teams can ship
+    <td width="38%" valign="top">
+      <b>Technical stack</b><br>
+      Python, C, Rust<br>
+      Linux, networking<br>
+      React, Next.js<br>
+      Local inference, embeddings
+      <br><br>
+      <b>Frameworks</b><br>
+      NIST 800-53<br>
+      CJIS<br>
+      SOC 2 style controls
     </td>
   </tr>
 </table>
 
----
+<hr>
 
-## Core capabilities
+## 02 CORE CAPABILITIES
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <b>Cloud security</b><br>
-      Architecture evaluation, risk-based review, control alignment tied to real deployments
+      Architecture evaluation and risk-based review<br>
+      Threat modeling and attack paths<br>
+      Control alignment tied to real deployments
     </td>
     <td width="50%" valign="top">
-      <b>Offense</b><br>
-      Web, network, and cloud testing; exploitation when appropriate
+      <b>Offensive security</b><br>
+      Web, network, and cloud testing<br>
+      Vulnerability analysis and validation<br>
+      Exploit research when appropriate
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>Security engineering</b><br>
-      Tooling, integrations, workflows; reducing manual steps and increasing consistency
+      Tooling, automation, integrations, workflows<br>
+      Repeatable processes for investigation and delivery
     </td>
     <td width="50%" valign="top">
-      <b>Systems</b><br>
-      C and Rust tooling; OS internals, memory safety, performance
+      <b>Systems work</b><br>
+      System-oriented tooling in C and Rust<br>
+      OS internals, memory safety, performance
     </td>
   </tr>
 </table>
 
----
+<hr>
 
-## Toolchain
+## 03 BUILD OUTPUT
 
-<code>Python</code> <code>C</code> <code>Rust</code> <code>Linux</code> <code>Networking</code> <code>React</code> <code>Next.js</code>
+* Security tools and automation utilities
+* Proof-of-concept work where disclosure permits
+* Systems experiments and lab utilities
+* Interfaces for presenting security data clearly
+* AI-assisted workflows for security operations
 
----
+<hr>
 
-## ML-assisted workflows and frontier tech
+## 04 APPLIED AI AND COMPUTE
 
-* Local inference experiments for security workflows
-* Embeddings and retrieval for structured security knowledge
-* Automation for reporting, triage, and evidence organization
-* Quantum computing exploration with a security lens
+* LLM-assisted security automation and workflow augmentation
+* Embeddings and retrieval patterns for structured knowledge
+* Local inference environments and integration experiments
+* Quantum computing: concepts and security implications
 
----
+<hr>
 
-## Compliance
+## 05 ASSURANCE
 
 * Evidence-driven control implementation and validation
 * Control narratives, SSP inputs, audit readiness workflows
 
-Framework exposure: NIST 800-53 · CJIS · SOC 2 style controls
+Framework exposure: NIST 800-53, CJIS, SOC 2 style controls
 
----
+<hr>
 
-## Repository focus
+## LINKS
 
-* Security tools and automation utilities
-* PoCs where disclosure permits
-* Lab utilities and systems experiments
-* Minimal interfaces for presenting security data
-
-<sub>Detailed writeups live in repos and on the website. This page is the map.</sub>
+<a href="https://kuladeepmantri.com/"><kbd>Website</kbd></a> <a href="mailto:kuladeepbmantri@gmail.com"><kbd>Email</kbd></a> <a href="https://linkedin.com/in/kuladeepmantri"><kbd>LinkedIn</kbd></a>
