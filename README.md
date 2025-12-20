@@ -1,6 +1,6 @@
 Security researcher.
 
-I focus on cloud security, offensive testing, and building tools that make security work repeatable and measurable.
+I focus on cloud security, offensive testing, and building tools.
 
 <a href="https://kuladeepmantri.com/"><kbd>kuladeepmantri.com</kbd></a>
 
