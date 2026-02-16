@@ -1,43 +1,77 @@
-<p align="center">
-  <img src="bro.png" alt="Banner" width="2000" />
-</p>
+<div align="center">
+  <img src="bro.png" width="100%" alt="k.mantri" />
+  
+  <h1>KULADEEP MANTRI</h1>
 
-<h1 align="center">KULADEEP MANTRI</h1>
-<p align="center"><strong>Security Researcher</strong></p>
+  <a href="https://kuladeepmantri.com/">WEBSITE</a>
+  &nbsp; • &nbsp;
+  <a href="https://linkedin.com/in/kuladeepmantri">LINKEDIN</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:kuladeepbmantri@gmail.com">EMAIL</a>
+</div>
 
-<p align="center">
-  <a href="https://kuladeepmantri.com/">kuladeepmantri.com</a>
-  ·
-  <a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a>
-  ·
-  <a href="mailto:kuladeepbmantri@gmail.com">kuladeepbmantri@gmail.com</a>
-</p>
+<br />
+<br />
 
----
+### 01 / WHAT I DO
 
-## Focus
-- Cloud security and architecture review (threat modeling, attack paths, risk-based design)
-- Offensive security testing (web, network, cloud) with reproducible results
-- Vulnerability research and validation (impact, constraints, exploitability when appropriate)
-- Writeups (evidence, steps to reproduce, severity rationale, implementable remediation)
+**Cloud Security & Architecture**
+Threat modeling, attack paths, risk-based design review.
 
-## Build
-- Tools for testing, investigation, and analysis
-- Automation and integrations (APIs, workflows, repeatability)
-- Minimal interfaces for security data and operational status
-- Outputs: scripts, PoCs, dashboards, reports, lab utilities
+**Offensive Security Testing**
+Web, network, and cloud assessments with reproducible results.
 
-## Stack
-- Python, C, Rust
-- Linux, networking
-- React, Next.js
+**Vulnerability Research**
+Impact confirmation, exploitability verification, constraint documentation.
 
-## Applied AI
-- LLM-assisted workflows for drafting and evidence summarization
-- Embeddings and retrieval for knowledge search and reuse
-- Local inference environments and workflow integration
-- Quantum computing exploration (concepts, security implications)
+**Writeups**
+Evidence-based reporting with implementable remediation.
 
-## Compliance
-- NIST 800-53, CJIS, SOC 2 style controls
-- Evidence-driven validation and audit-ready artifacts
+<br />
+
+### 02 / WHAT I BUILD
+
+**Security Tools**
+Testing, investigation, and analysis utilities.
+
+**Automation & Integrations**
+APIs and workflows for consistency and repeatability.
+
+**Interfaces & Outputs**
+Minimal operational UIs, scripts, PoCs, and dashboards.
+
+<br />
+
+### 03 / TECHNOLOGY
+
+**Languages**
+Python, C, Rust
+
+**Infrastructure**
+Linux, Networking, Hardening
+
+**Frontend**
+React, Next.js
+
+<br />
+
+### 04 / APPLIED AI
+
+**LLM Workflows**
+Structured reporting, evidence summarization.
+
+**RAG & Retrieval**
+Knowledge organization for security data.
+
+**Local Inference**
+Offline model integration for sensitive workflows.
+
+<br />
+
+### 05 / COMPLIANCE
+
+**Frameworks**
+NIST 800-53, CJIS, SOC 2
+
+**Focus**
+Evidence-driven validation and audit-ready artifacts.
