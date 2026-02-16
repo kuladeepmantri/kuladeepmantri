@@ -1,84 +1,77 @@
-<p align="center">
-  <img src="bro.png" alt="Kuladeep Mantri banner" width="2000" />
-</p>
+<div align="center">
 
-<h1 align="center">KULADEEP MANTRI</h1>
-<p align="center"><strong>Security Researcher</strong></p>
+  <img src="bro.png" alt="Banner" width="100%" />
 
-<p align="center">
-  <a href="https://kuladeepmantri.com/">kuladeepmantri.com</a>
-  ·
-  <a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a>
-  ·
-  <a href="mailto:kuladeepbmantri@gmail.com">kuladeepbmantri@gmail.com</a>
-</p>
+  # KULADEEP MANTRI
 
----
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kuladeepmantri.com-000?style=for-the-badge&logo=firefox&logoColor=white)](https://kuladeepmantri.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kuladeepmantri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuladeepmantri)
+  [![Email](https://img.shields.io/badge/Email-kuladeepbmantri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuladeepbmantri@gmail.com)
 
-## What I Do
+</div>
 
-### Cloud Security and Architecture Review
-- Threat modeling and attack-path analysis
-- Risk-based design reviews for cloud systems
+<br />
 
-### Offensive Security Testing
-- Web, network, and cloud security assessments
-- Reproducible findings with clear validation steps
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ 01 WHAT I DO</h3>
+      <br>
+      <strong>Cloud security & architecture review</strong><br>
+      Threat modeling, attack paths, risk-based design review.
+      <br><br>
+      <strong>Offensive security testing</strong><br>
+      Web, network, and cloud assessments with reproducible results.
+      <br><br>
+      <strong>Vulnerability research</strong><br>
+      Confirm impact, verify exploitability when appropriate, document constraints.
+      <br><br>
+      <strong>Writeups</strong><br>
+      Evidence, reproduction steps, severity rationale, remediation that is implementable.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ 02 WHAT I BUILD</h3>
+      <br>
+      <strong>Security tools</strong><br>
+      Testing, investigation, and analysis utilities.
+      <br><br>
+      <strong>Automation and integrations</strong><br>
+      APIs, workflow automation, consistency and repeatability.
+      <br><br>
+      <strong>Interfaces</strong><br>
+      Minimal UI for security data and operational status.
+      <br><br>
+      <strong>Outputs</strong><br>
+      Scripts, PoCs, dashboards, reports, lab utilities.
+    </td>
+  </tr>
+</table>
 
-### Vulnerability Research and Validation
-- Confirm impact and constraints
-- Verify exploitability when appropriate
-- Document realistic threat scenarios
+<br />
 
-### Writeups
-- Evidence + reproduction steps
-- Severity rationale
-- Implementable remediation guidance
+### 💻 03 TECHNICAL STACK
 
----
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Automation/API), C & Rust (Systems/Performance) |
+| **Infrastructure** | Linux hardening, Networking exposure analysis, Services |
+| **Frontend** | React, Next.js (Operational UI for tooling) |
 
-## What I Build
+<br />
 
-### Security Tools
-- Testing, investigation, and analysis utilities
+### 🤖 04 APPLIED AI
 
-### Automation and Integrations
-- API-driven workflows
-- Repeatability, consistency, and reliability
+* **LLM-assisted workflows:** Structured report drafting, evidence summarization, repeatable task acceleration.
+* **Embeddings and retrieval:** Organizing security knowledge for search and reuse.
+* **Local inference environments:** Running models locally and integrating them into workflows.
+* **Quantum computing exploration:** Concepts and security implications.
 
-### Interfaces
-- Minimal operational UI for security data and status
+<br />
 
-### Outputs
-- Scripts, PoCs, dashboards, reports, lab utilities
+### 📜 05 COMPLIANCE
 
----
+> Focus: Evidence-driven validation and audit-ready artifacts.
 
-## Technical Stack
-
-- **Python:** automation, APIs, integrations, rapid prototyping  
-- **C and Rust:** systems tooling, performance work, safer primitives  
-- **Linux and networking:** services, hardening, troubleshooting, exposure analysis  
-- **React and Next.js:** operational UI for security tooling  
-
----
-
-## Applied AI
-
-- **LLM-assisted workflows:** structured drafting, evidence summarization, repeatable acceleration
-- **Embeddings and retrieval:** organizing security knowledge for search and reuse
-- **Local inference environments:** running models locally and integrating into workflows
-- **Quantum computing exploration:** concepts and security implications
-
----
-
-## Compliance
-
-### Framework Exposure
-- NIST 800-53
-- CJIS
-- SOC 2 style controls
-
-### Focus
-- Evidence-driven validation
-- Audit-ready artifacts
+* **NIST 800-53**
+* **CJIS**
+* **SOC 2** (Style controls)
