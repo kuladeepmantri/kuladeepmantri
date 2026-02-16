@@ -1,71 +1,84 @@
-# KULADEEP MANTRI
+<p align="center">
+  <img src="bro.png" alt="Kuladeep Mantri banner" width="2000" />
+</p>
 
-![Banner](bro.png)
+<h1 align="center">KULADEEP MANTRI</h1>
+<p align="center"><strong>Security Researcher</strong></p>
 
-<a href="https://kuladeepmantri.com/">kuladeepmantri.com</a> <a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a> <a href="mailto:kuladeepbmantri@gmail.com">[kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)</a>
+<p align="center">
+  <a href="https://kuladeepmantri.com/">kuladeepmantri.com</a>
+  ·
+  <a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a>
+  ·
+  <a href="mailto:kuladeepbmantri@gmail.com">kuladeepbmantri@gmail.com</a>
+</p>
 
-## 01 WHAT I DO
+---
 
-**Cloud security and architecture review**
-Threat modeling, attack paths, risk-based design review.
+## What I Do
 
-**Offensive security testing**
-Web, network, and cloud assessments with reproducible results.
+### Cloud Security and Architecture Review
+- Threat modeling and attack-path analysis
+- Risk-based design reviews for cloud systems
 
-**Vulnerability research and validation**
-Confirm impact, verify exploitability when appropriate, document constraints.
+### Offensive Security Testing
+- Web, network, and cloud security assessments
+- Reproducible findings with clear validation steps
 
-**Writeups**
-Evidence, reproduction steps, severity rationale, remediation that is implementable.
+### Vulnerability Research and Validation
+- Confirm impact and constraints
+- Verify exploitability when appropriate
+- Document realistic threat scenarios
 
-## 02 WHAT I BUILD
+### Writeups
+- Evidence + reproduction steps
+- Severity rationale
+- Implementable remediation guidance
 
-**Security tools**
-Testing, investigation, and analysis utilities.
+---
 
-**Automation and integrations**
-APIs, workflow automation, consistency and repeatability.
+## What I Build
 
-**Interfaces**
-Minimal UI for security data and operational status.
+### Security Tools
+- Testing, investigation, and analysis utilities
 
-**Outputs**
-Scripts, PoCs, dashboards, reports, lab utilities.
+### Automation and Integrations
+- API-driven workflows
+- Repeatability, consistency, and reliability
 
-## 03 TECHNICAL STACK
+### Interfaces
+- Minimal operational UI for security data and status
 
-**Python**
-Automation, APIs, integrations, rapid prototyping.
+### Outputs
+- Scripts, PoCs, dashboards, reports, lab utilities
 
-**C and Rust**
-Systems tooling, performance work, safer primitives.
+---
 
-**Linux and networking**
-Services, hardening, troubleshooting, exposure analysis.
+## Technical Stack
 
-**React and Next.js**
-Operational UI for security tooling.
+- **Python:** automation, APIs, integrations, rapid prototyping  
+- **C and Rust:** systems tooling, performance work, safer primitives  
+- **Linux and networking:** services, hardening, troubleshooting, exposure analysis  
+- **React and Next.js:** operational UI for security tooling  
 
-## 04 APPLIED AI
+---
 
-**LLM-assisted workflows**
-Structured report drafting, evidence summarization, repeatable task acceleration.
+## Applied AI
 
-**Embeddings and retrieval**
-Organizing security knowledge for search and reuse.
+- **LLM-assisted workflows:** structured drafting, evidence summarization, repeatable acceleration
+- **Embeddings and retrieval:** organizing security knowledge for search and reuse
+- **Local inference environments:** running models locally and integrating into workflows
+- **Quantum computing exploration:** concepts and security implications
 
-**Local inference environments**
-Running models locally and integrating them into workflows.
+---
 
-**Quantum computing exploration**
-Concepts and security implications.
+## Compliance
 
-## 05 COMPLIANCE
+### Framework Exposure
+- NIST 800-53
+- CJIS
+- SOC 2 style controls
 
-**Framework exposure**
-NIST 800-53
-CJIS
-SOC 2 style controls
-
-**Focus**
-Evidence-driven validation and audit-ready artifacts.
+### Focus
+- Evidence-driven validation
+- Audit-ready artifacts
