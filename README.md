@@ -2,6 +2,8 @@
 
 Security researcher
 
+![Banner](Red%20and%20Black%20Modern%20Digital%20Marketing%20Manager%20Profile%20LinkedIn%20Background%20Photo%20(2000%20x%20600%20px).jpg)
+
 <a href="https://kuladeepmantri.com/">kuladeepmantri.com</a> <a href="https://linkedin.com/in/kuladeepmantri">linkedin.com/in/kuladeepmantri</a> <a href="mailto:kuladeepbmantri@gmail.com">[kuladeepbmantri@gmail.com](mailto:kuladeepbmantri@gmail.com)</a>
 
 ## 01 WHAT I DO
